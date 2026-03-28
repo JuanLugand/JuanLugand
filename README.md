@@ -2,7 +2,7 @@
 
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 
- 🌱 I’m currently studying **Software Development**
+ 🌱 I’m currently learning **Software Development**
  
 ## My Skills Include
 
